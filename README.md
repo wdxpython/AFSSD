@@ -30,5 +30,5 @@ python test_AFSSD.py -d VOC -v AFSSD -s 320
 ```
 
 ## Thank For
-   Thanks for [xxx‘s project](https://github.com/ruinmessi/RFBNet) 
+   Thanks for [ruinmessi‘s project](https://github.com/ruinmessi/RFBNet) 
 
