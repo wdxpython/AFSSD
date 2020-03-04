@@ -5,7 +5,7 @@ By Lie Guo, Dongxing Wang, Linhui Li
 ### Introduction
 With the development of deep learning, the performance of object detection has made great progress. But there are still some challenging problems, such as the detection accuracy of small objects and the efficiency of the detector. This paper proposes an accurate and fast single shot multibox detector (AFSSD) , which includes context comprehensive enhancement module (CCE) module and feature enhancement module (FEM). 
 
-<img align="right" src="https://github.com/wdxpython/AFSSD/blob/master/img/919462661.jpg">
+<img align="right" src="https://github.com/wdxpython/AFSSD/blob/master/img/1827104176.jpg">
 &nbsp;
 &nbsp;
 
