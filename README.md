@@ -18,7 +18,7 @@ cd weights
 wget https://s3.amazonaws.com/amdegroot-models/vgg16_reducedfc.pth
 ```
 
-- To train RFBNet using the train script simply specify the parameters listed in `train_AFSSD.py` as a flag or manually change them.
+- To train AFSSD using the train script simply specify the parameters listed in `train_AFSSD.py` as a flag or manually change them.
 ```Shell
 python train_AFSSD.py -d VOC -v AFSSD -s 320 
 ```
@@ -30,5 +30,5 @@ python test_AFSSD.py -d VOC -v AFSSD -s 320
 ```
 
 ## Thank For
-	Thanks for [xxx‘s project](https://github.com/ruinmessi/RFBNet) 
+   Thanks for [xxx‘s project](https://github.com/ruinmessi/RFBNet) 
 
